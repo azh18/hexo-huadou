@@ -1,0 +1,10 @@
+public/
+db.json
+.vscode
+db.json.back
+node_modules/
+.deploy_git/
+.gitback/
+.gitmodules
+package.json
+.DS_Store
