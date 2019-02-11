@@ -1,10 +1,11 @@
----
 title: 【旧事重提系列之四】平凡之路
 catalog: true
+tags:
+  - 随笔
+  - 成长
 date: 2018-11-19 13:40:04
 subtitle:
 header-img:
-tags: [随笔,成长]
 ---
 
 ### 关于《旧事重提》

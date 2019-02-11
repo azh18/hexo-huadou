@@ -91,10 +91,10 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 ## Friends
 friends: [
-    #  {
-    #    title: "CSDN Blog 胡伟煌",
-    #    href: "https://blog.csdn.net/huwh_"
-    #},
+      {
+        title: "zbw0046",
+        href: "http://www.lovelittlecat.com"
+    }
     #{
     #    title: "DockOne 胡伟煌",
     #    href: "https://dockone.io/people/胡伟煌"

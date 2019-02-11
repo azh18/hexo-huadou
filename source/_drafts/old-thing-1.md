@@ -1,10 +1,11 @@
----
 title: 【旧事重提系列之一】一半阴雨，一半艳阳
 catalog: true
+tags:
+  - 随笔
+  - 成长
 date: 2018-11-19 13:39:45
 subtitle:
 header-img:
-tags: [随笔,成长]
 ---
 
 ### 关于《旧事重提》
