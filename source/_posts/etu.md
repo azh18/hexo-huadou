@@ -1,10 +1,13 @@
 title: 被渴望的与被拯救的——《me before you》笔记（上）：书/影对比
 catalog: true
 author: wangyinrui
-date: 2019-03-02 21:25:14
+tags:
+  - 观影笔记
+  - 读书笔记
+categories: []
+date: 2019-03-02 21:25:00
 subtitle:
 header-img:
-tags:
 ---
 ### 太长不看版
 &emsp;&emsp;所谓被渴望的与被拯救的，不过爱与自由。

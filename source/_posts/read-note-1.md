@@ -2,7 +2,7 @@ title: 他们就是热爱读书
 catalog: true
 subtitle: ——《如何去读一本书》读书笔记
 tags:
-  - 笔记
+  - 读书笔记
 categories: []
 date: 2018-12-03 14:25:00
 header-img:

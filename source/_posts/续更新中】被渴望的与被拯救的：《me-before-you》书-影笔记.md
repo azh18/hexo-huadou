@@ -1,7 +1,9 @@
-title: 【持续更新中】被渴望的与被拯救的：《me before you》书/影笔记
+title: 被渴望的与被拯救的——《me before you》笔记（下）：露V.S.Will
 catalog: true
 author: wangyinrui
-tags: []
+tags:
+  - 读书笔记
+  - 观影笔记
 categories: []
 date: 2019-02-26 17:14:00
 subtitle:
